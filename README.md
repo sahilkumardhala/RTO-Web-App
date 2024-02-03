@@ -23,27 +23,22 @@ Follow these steps to set up the RTO Web App locally:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/sahilkumardhala/RTO-Web-App.git
 Navigate to the project directory:
 ```
 ```bash
-Copy code
 cd RTO-Web-App
 Install dependencies:
 ```
 ```bash
-Copy code
 pip install -r requirements.txt
 Apply migrations:
 ```
 ```bash
-Copy code
 python manage.py migrate
 Run the development server:
 ```
 ```bash
-Copy code
 python manage.py runserver
 Open your web browser and go to http://localhost:8000/ to access the RTO Web App.
 ```
