@@ -22,8 +22,8 @@ Follow these steps to set up the RTO Web App locally:
 
 Clone the repository:
 
-```bash
 Navigate to the project directory:
+```bash
 git clone https://github.com/sahilkumardhala/RTO-Web-App.git
 ```
 ```bash
@@ -54,6 +54,9 @@ Contact
 For any inquiries or issues, feel free to contact me:
 
 Email: `sahildhala123@gmail.com`
+
 Twitter: sahilkumardhal1
+
 LinkedIn: Sahil Kumar Dhala
+
 Thank you for your interest in the RTO Web App!
