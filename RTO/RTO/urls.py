@@ -22,8 +22,8 @@ urlpatterns = [
     path('', dl_insert, name="home"),
     path('delete/<id>',delete, name="delete"),
     path('Update/<id>',update, name="update"),
-    path('login',loginpage, name="loginpage"),
-    path('logout',logoutpage, name="logoutpage"),
-    path('register',register, name="register"),
+    path('login/',loginpage, name="loginpage"),
+    path('logout/',logoutpage, name="logoutpage"),
+    path('register/',register, name="register"),
     path('admin/', admin.site.urls),
 ]
